@@ -1,3 +1,4 @@
+import React from "react";
 import useConfirm from "../useConfirm";
 
 const UseConfirm = () => {
