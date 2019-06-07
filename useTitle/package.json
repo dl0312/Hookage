@@ -1,0 +1,25 @@
+{
+  "name": "@hookage/use-title",
+  "version": "1.0.1",
+  "description": "React Hooks to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dl0312/hookage.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "Geon Lee <leegun2003@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dl0312/hookage/issues"
+  },
+  "homepage": "https://github.com/dl0312/hookage#readme",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
