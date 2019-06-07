@@ -1,5 +1,5 @@
 import React from "react";
-import { useAxios } from "../package/useAxios";
+import { useAxios } from "../packages/useAxios";
 
 const UseAxios = () => {
   const { loading, data, error, refetch } = useAxios({

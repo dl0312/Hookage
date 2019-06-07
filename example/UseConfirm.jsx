@@ -1,5 +1,5 @@
 import React from "react";
-import useConfirm from "../package/useConfirm";
+import useConfirm from "../packages/useConfirm";
 
 const UseConfirm = () => {
   const deleteWorld = () => console.log("Confirm");

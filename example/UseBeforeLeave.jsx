@@ -1,5 +1,5 @@
 import React from "react";
-import useBeforeLeave from "../package/useBeforeLeave";
+import useBeforeLeave from "../packages/useBeforeLeave";
 
 const UseBeforeLeave = () => {
   const begForLife = () => console.log("Plz dont leave");

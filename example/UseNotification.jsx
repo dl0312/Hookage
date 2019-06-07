@@ -1,5 +1,5 @@
 import React from "react";
-import useNotification from "../package/useNotification";
+import useNotification from "../packages/useNotification";
 
 const UseNotification = () => {
   const triggerNotification = useNotification("Shall we dance?", {

@@ -1,5 +1,5 @@
 import React from "react";
-import useFullScreen from "../package/useFullScreen";
+import useFullScreen from "../packages/useFullScreen";
 
 const UseFullScreen = () => {
   const onFulls = isFull => {

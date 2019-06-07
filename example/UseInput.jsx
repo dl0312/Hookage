@@ -1,5 +1,5 @@
 import React from "react";
-import useInput from "../package/useInput";
+import useInput from "../packages/useInput";
 
 const UseInput = () => {
   const maxLen = value => value.length <= 10;
