@@ -1,5 +1,5 @@
 import React from "react";
-import useScroll from "../useScroll";
+import useScroll from "../package/useScroll";
 
 const UseScroll = () => {
   const { x, y } = useScroll();

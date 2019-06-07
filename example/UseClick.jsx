@@ -1,5 +1,5 @@
 import React from "react";
-import useClick from "../useClick";
+import useClick from "../package/useClick";
 
 const UseClick = () => {
   const sayHello = () => console.log("Hello");

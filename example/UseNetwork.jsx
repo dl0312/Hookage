@@ -1,5 +1,5 @@
 import React from "react";
-import useNetwork from "../useNetwork";
+import useNetwork from "../package/useNetwork";
 
 const UseNetwork = () => {
   const handleNetworkChange = online => {

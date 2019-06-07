@@ -1,5 +1,5 @@
 import React from "react";
-import useTitle from "../useTitle";
+import useTitle from "../package/useTitle";
 
 const UseTitle = () => {
   const titleUpdater = useTitle("Loading...");

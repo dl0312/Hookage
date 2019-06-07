@@ -1,5 +1,5 @@
 import React from "react";
-import usePreventLeave from "../usePreventLeave";
+import usePreventLeave from "../package/usePreventLeave";
 
 const UsePreventLeave = () => {
   const { enablePrevent, disablePrevent } = usePreventLeave();

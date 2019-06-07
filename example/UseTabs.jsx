@@ -1,5 +1,5 @@
 import React from "react";
-import useTabs from "../useTabs";
+import useTabs from "../package/useTabs";
 
 const content = [
   {

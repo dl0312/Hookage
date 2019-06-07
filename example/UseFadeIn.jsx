@@ -1,5 +1,5 @@
 import React from "react";
-import useFadeIn from "../useFadeIn";
+import useFadeIn from "../package/useFadeIn";
 
 const UseFadeIn = () => {
   const fadeInH1 = useFadeIn(1, 5);
