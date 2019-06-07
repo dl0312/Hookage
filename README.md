@@ -7,29 +7,29 @@
 ## Packages
 - [`@hookage/use-title`](/packages/useTitle)
   - [x] 📣 publish
-- [`@hookage/use-input`](/packages/useTitle)
+- [`@hookage/use-input`](/packages/useInput)
   - [ ] 📣 publish
-- [`@hookage/use-tabs`](/packages/useTitle)
+- [`@hookage/use-tabs`](/packages/useTabs)
   - [ ] 📣 publish
-- [`@hookage/use-click`](/packages/useTitle)
+- [`@hookage/use-click`](/packages/useClick)
   - [ ] 📣 publish
-- [`@hookage/use-confirm`](/packages/useTitle)
+- [`@hookage/use-confirm`](/packages/useConfirm)
   - [ ] 📣 publish
-- [`@hookage/use-prevent-leave`](/packages/useTitle)
+- [`@hookage/use-prevent-leave`](/packages/usePreventLeave)
   - [ ] 📣 publish
-- [`@hookage/use-before-leave`](/packages/useTitle)
+- [`@hookage/use-before-leave`](/packages/useBeforeLeave)
   - [ ] 📣 publish
-- [`@hookage/use-fade-in`](/packages/useTitle)
+- [`@hookage/use-fade-in`](/packages/useFadeIn)
   - [ ] 📣 publish
-- [`@hookage/use-network`](/packages/useTitle)
+- [`@hookage/use-network`](/packages/useNetwork)
   - [ ] 📣 publish
-- [`@hookage/use-scroll`](/packages/useTitle)
+- [`@hookage/use-scroll`](/packages/useScroll)
   - [ ] 📣 publish
-- [`@hookage/use-fullscreen`](/packages/useTitle)
+- [`@hookage/use-fullscreen`](/packages/useFullScreen)
   - [ ] 📣 publish
-- [`@hookage/use-notification`](/packages/useTitle)
+- [`@hookage/use-notification`](/packages/useNotification)
   - [ ] 📣 publish
-- [`@hookage/use-axios`](/packages/useTitle)
+- [`@hookage/use-axios`](/packages/useAxios)
   - [ ] 📣 publish
 
 ## License
